@@ -10,8 +10,8 @@
             .hash = "sdl-0.2.0+3.2.8-7uIn9FxHfQE325TK7b0qpgt10G3x1xl-3ZMOfTzxUg3C",
         },
         .freetype = .{
-            .url = "git+https://github.com/boubl/freetype#1dea2c6021c53d4ba53d6cc8e36e8b16984a920f",
-            .hash = "freetype-0.0.0-cLfC_zRJcwCqxRJ8nY0zaejTIi32iTdkG3NFhCwTiHIC",
+            .url = "git+https://github.com/loftafi/freetype.git#375bbb3ef2723d34e4c23c97894620141cd8c08f",
+            .hash = "freetype-0.0.0-PphdeTRJcwCePb5_HyzdbQm-reOC4wOrOWswvuLzcxQJ",
         },
     },
 
